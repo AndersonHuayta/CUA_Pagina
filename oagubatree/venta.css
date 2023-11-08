@@ -32,7 +32,7 @@ header h1{
 .contenedor .contenedor-items .item{
     max-width: 200px;
     margin: auto;
-    border: 1px solid #666;
+    border: 1px solid #631f1f;
     border-radius: 10px;
     padding: 20px;
     transition: .3s;
@@ -61,7 +61,7 @@ header h1{
     display: block;
     margin: 10px auto;
     border: none;
-    background-color: black;
+    background-color: rgb(226, 29, 29);
     color: #fff;
     padding: 5px 15px;
     border-radius: 5px;
@@ -69,7 +69,7 @@ header h1{
 }
 /* seccion carrito */
 .carrito{
-    border: 1px solid #666;
+    border: 1px solid #ff0000;
     width: 35%;
     margin-top: 30px;
     border-radius: 10px;
@@ -83,7 +83,7 @@ header h1{
     opacity: 0;
 }
 .carrito .header-carrito{
-    background-color: #000;
+    background-color: #ff0000;
     color: #fff;
     text-align: center;
     padding: 30px 0;
@@ -92,7 +92,7 @@ header h1{
     display: flex;
     align-items: center;
     position: relative;
-    border-bottom: 1px solid #666;
+    border-bottom: 1px solid #ac4949;
     padding: 20px;
 }
 .carrito .carrito-item img{
@@ -170,7 +170,7 @@ header h1{
     display: block;
     width: 100%;
     border: none;
-    background: #000;
+    background: #ff0000;
     color: #fff;
     border-radius: 5px;
     font-size: 18px;
